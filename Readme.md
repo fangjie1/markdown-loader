@@ -2,10 +2,9 @@
 
 ### Installation
 ```
- npm install webpack-markdown-loaders -D
+ npm install markdown-loader-fj -D
 ```
-
-
+ - 
 ### Usage
 ```
 const path = require('path')
