@@ -1,0 +1,23 @@
+{
+  "name": "markdown-loader-fj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markdown-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "markdown",
+    "loader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-it": "^12.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fangjie1/markdown-loader.git"
+  }
+}
