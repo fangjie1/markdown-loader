@@ -4,7 +4,7 @@
 ```
  npm install markdown-loader-fj -D
 ```
- - 
+
 ### Usage
 ```
 const path = require('path')
