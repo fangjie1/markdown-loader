@@ -1,6 +1,6 @@
 {
   "name": "markdown-loader-fj",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "markdown-loader.js",
   "scripts": {
@@ -13,11 +13,12 @@
   ],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "markdown-it": "^12.3.0"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:fangjie1/markdown-loader.git"
+  },
+  "dependencies": {
+    "markdown-it": "^12.3.0"
   }
 }

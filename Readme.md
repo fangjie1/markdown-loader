@@ -1,4 +1,4 @@
-## Markdown Loader A markdown loader for weboack using markdown-it
+## A markdown loader for weboack using markdown-it
 
 ### Installation
 ```
